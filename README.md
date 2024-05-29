@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">🔭 My Story: After honing my skills in the front-end realm, I've now set my sights on the captivating world of back-end development. With a growing passion for server-side architecture and data management, I'm eager to explore the versatility of back-end and push the boundaries of what's possible. 🌱 While my front-end expertise remains a valuable asset, I've found myself increasingly drawn to the challenges and complexities of back-end engineering.</h3>
+<h2>🔭 My Story</h2>
+<h3 >
+🎢 After honing my skills in the front-end realm, I've now set my sights on the captivating world of back-end development. With a growing passion for server-side architecture and data management, I'm eager to explore the versatility of back-end and push the boundaries of what's possible. 
+  <br/>
+  🌱 While my front-end expertise remains a valuable asset, I've found myself increasingly drawn to the challenges and complexities of back-end engineering.
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
