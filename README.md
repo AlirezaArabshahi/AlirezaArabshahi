@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3>🔭 My Story:</h3>
-<h3 >🎢 After honing my skills in the front-end realm, I've now set my sights on the captivating world of back-end development. With a growing passion for server-side architecture and data management, I'm eager to explore the versatility of back-end and push the boundaries of what's possible. 
-  <br/>
-  🌱 While my front-end expertise remains a valuable asset, I've found myself increasingly drawn to the challenges and complexities of back-end engineering.
+<h3>
+I’m a hardworking full-stack developer passionate about building scalable, standards-driven applications using best practices in the .NET ecosystem. Specializing in C#, ASP.NET, and Blazor, I also have a solid grasp of JavaScript and its modern frameworks like Vue.js. I blend clean, precise coding with creative problem-solving to deliver high-quality, scalable solutions.
 </h3>
 
 
