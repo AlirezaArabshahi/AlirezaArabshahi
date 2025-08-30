@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Alireza</h1>
-  <h3>I write code. The AI adds the "features" (bugs).</h3>
+  <h3>I write clean code. The AI adds the "features" (bugs). </h3>
 </div>
 
 ---
@@ -14,7 +14,6 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
 ### Technical Skills
 
 <table width="100%">
-  <!-- First row with 4 columns -->
   <tr>
     <td valign="top" width="25%">
       <h4>Languages</h4>
@@ -42,13 +41,12 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
     <td valign="top" width="25%">
       <h4>Databases & Caching</h4>
       <ul>
-        <li><b>SQL:</b> MariaDB</li>
+        <li><b>SQL:</b> MySQL & MariaDB</li>
         <li><b>NoSQL:</b> MongoDB</li>
         <li><b>In-Memory:</b> Nothing for now</li>
       </ul>
     </td>
   </tr>
-  <!-- Second row for Tools, spanning all columns -->
   <tr>
     <td colspan="4" valign="top">
       <div align="center">
@@ -65,8 +63,8 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
 
 | Project | Status | Description |
 | :--- | :---: | :--- |
-| **[Project Name 1]** | 🚧 In Progress | Coming soon... |
-| **[Project Name 2]** | 💡 Planning | Coming soon... |
+| **Coming soon** | 🚧 In Progress | Coming soon... |
+| **Coming soon** | 💡 Planning | Coming soon... |
 
 ---
 
