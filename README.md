@@ -1,9 +1,76 @@
-<h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3>
-I’m a hardworking full-stack developer passionate about building scalable, standards-driven applications using best practices in the .NET ecosystem. Specializing in C#, ASP.NET, and Blazor, I also have a solid grasp of JavaScript and its modern frameworks like Vue.js. I blend clean, precise coding with creative problem-solving to deliver high-quality, scalable solutions.
-</h3>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Alireza</h1>
+  <h3>I write code. The AI adds the "features" (bugs).</h3>
+</div>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### About Me
+
+I'm a software engineer (or at least that's the title I'm aiming for), passionate about building scalable, standards-driven applications using best practices in the .NET ecosystem. Specializing in C#, ASP.NET, and Blazor, I also have a solid grasp of JavaScript and its modern frameworks like Vue.js. I blend clean, precise coding with creative problem-solving to deliver high-quality, scalable solutions.
+
+---
+
+### Technical Skills
+
+<table width="100%">
+  <!-- First row with 4 columns -->
+  <tr>
+    <td valign="top" width="25%">
+      <h4>Languages</h4>
+      <ul>
+        <li>C#</li>
+        <li>SQL</li>
+        <li>JavaScript & TypeScript</li>
+      </ul>
+    </td>
+    <td valign="top" width="25%">
+      <h4>Back-end</h4>
+      <ul>
+        <li>ASP.NET Core</li>
+        <li>Entity Framework Core</li>
+        <li>RESTful API Design</li>
+      </ul>
+    </td>
+    <td valign="top" width="25%">
+      <h4>Front-end</h4>
+      <ul>
+        <li>Vue.js & Nuxt.js</li>
+        <li>Blazor</li>
+      </ul>
+    </td>
+    <td valign="top" width="25%">
+      <h4>Databases & Caching</h4>
+      <ul>
+        <li><b>SQL:</b> MariaDB</li>
+        <li><b>NoSQL:</b> MongoDB</li>
+        <li><b>In-Memory:</b> Nothing for now</li>
+      </ul>
+    </td>
+  </tr>
+  <!-- Second row for Tools, spanning all columns -->
+  <tr>
+    <td colspan="4" valign="top">
+      <div align="center">
+        <h4>Development Tools & Workflow</h4>
+        <p>Git &bull; Docker &bull; Rider, VS Code &bull; Agile/Scrum &bull; AI-Assisted Development</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Open Source Projects
+
+| Project | Status | Description |
+| :--- | :---: | :--- |
+| **[Project Name 1]** | 🚧 In Progress | Coming soon... |
+| **[Project Name 2]** | 💡 Planning | Coming soon... |
+
+---
+
+### Contact
+
+&nbsp;&bull;&nbsp; [**Website**](https://alirezaarabshahi.github.io/) &nbsp;&bull;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/alirezaarabshahi)
 
