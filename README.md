@@ -5,14 +5,21 @@
 
 ---
 
-### About Me
+### 🚀 Open Source Projects
 
-I'm a software engineer (or at least that's the title I'm aiming for), passionate about building scalable, standards-driven applications using best practices in the .NET ecosystem. Specializing in C#, ASP.NET, and Blazor, I also have a solid grasp of JavaScript and its modern frameworks like Vue.js. I blend clean, precise coding with creative problem-solving to deliver high-quality, scalable solutions.
+| Project                                                                    | Status          | Description                                                                                      |
+| :------------------------------------------------------------------------- | :-------------: | :----------------------------------------------------------------------------------------------- |
+| **[EasyPortfolio](https://github.com/AlirezaArabshahi/EasyPortfolio)**      | ✅ Done         | A zero-code portfolio template. Create a professional website by just editing a JSON file.     |
+| **[KestrelJuniorHttpServer](https://github.com/AlirezaArabshahi/KestrelJuniorHttpServer)** | 🚧 In Progress  | A lightweight, educational HTTP server built from scratch in .NET, inspired by Kestrel.        |
 
 ---
 
-### Technical Skills
+### 🌱 About Me
+I'm a software engineer (or at least that's the title I'm aiming for), passionate about building scalable, standards-driven applications using best practices in the .NET ecosystem. I blend clean, precise coding with creative problem-solving to deliver high-quality, scalable solutions.
 
+---
+
+### 🛠️ Technical Skills
 <table width="100%">
   <tr>
     <td valign="top" width="25%">
@@ -59,16 +66,5 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
 
 ---
 
-### Open Source Projects
-
-| Project | Status | Description |
-| :--- | :---: | :--- |
-| **Coming soon** | 🚧 In Progress | Coming soon... |
-| **Coming soon** | 💡 Planning | Coming soon... |
-
----
-
-### Contact
-
+### 📫 Contact
 &nbsp;&bull;&nbsp; [**Website**](https://alirezaarabshahi.github.io/) &nbsp;&bull;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/alirezaarabshahi)
-
