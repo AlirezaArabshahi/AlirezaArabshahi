@@ -10,7 +10,7 @@
 | Project                                                                    | Status          | Description                                                                                      |
 | :------------------------------------------------------------------------- | :-------------: | :----------------------------------------------------------------------------------------------- |
 | **[EasyPortfolio](https://github.com/AlirezaArabshahi/EasyPortfolio)**      | ✅ Done         | A zero-code portfolio template. Create a professional website by just editing a JSON file.     |
-| **[KestrelJuniorHttpServer](https://github.com/AlirezaArabshahi/KestrelJuniorHttpServer)** | 🚧 In Progress  | A lightweight, educational HTTP server built from scratch in .NET, inspired by Kestrel.        |
+| **[LiteWebFramework](https://github.com/AlirezaArabshahi/LiteWebFramework)** | 🚧 In Progress  | A minimal, educational web stack (server + framework) built from the ground up in modern C# (.NET).        |
 
 ---
 
