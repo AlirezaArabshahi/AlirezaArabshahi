@@ -26,8 +26,8 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
       <h4>Languages</h4>
       <ul>
         <li>C#</li>
-        <li>SQL</li>
         <li>JavaScript & TypeScript</li>
+        <li>SQL</li>
       </ul>
     </td>
     <td valign="top" width="25%">
@@ -48,9 +48,9 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
     <td valign="top" width="25%">
       <h4>Databases & Caching</h4>
       <ul>
-        <li><b>SQL:</b> MySQL & MariaDB</li>
+        <li><b>SQL:</b> SQL Server, MySQL, MariaDB</li>
         <li><b>NoSQL:</b> MongoDB</li>
-        <li><b>In-Memory:</b> Nothing for now</li>
+        <li><b>In-Memory:</b> Redis</li>
       </ul>
     </td>
   </tr>
