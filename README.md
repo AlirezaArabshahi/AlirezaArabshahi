@@ -26,8 +26,7 @@ I'm a software engineer (or at least that's the title I'm aiming for), passionat
       <h4>Languages</h4>
       <ul>
         <li>C#</li>
-        <li>JavaScript & TypeScript</li>
-        <li>SQL</li>
+        <li>JavaScript</li>
       </ul>
     </td>
     <td valign="top" width="25%">
